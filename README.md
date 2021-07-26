@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **database**
 
-- 📫 How to reach me **tanushree950444@gmail.com**
+- 📫 How to reach me : **tanushree950444@gmail.com** 
 
-- ⚡ Fun fact **I don't think I'm funny but my friends find me funny :|**
+- ⚡ Fun fact :  **I don't think I'm funny but my friends find me funny :|**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
