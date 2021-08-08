@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **tanushree950444@gmail.com** 
 
-- ⚡ Fun fact :  **I don't think I'm funny but my friends find me funny :|**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
