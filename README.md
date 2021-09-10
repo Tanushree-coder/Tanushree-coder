@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&show_icons=true&locale=en" alt="tanushree-coder" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-coder" alt="tanushree-coder" /></a> </p>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushree-coder&layout=compact&count_private=false" />
+
+![Tanushree's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder)
