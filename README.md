@@ -30,4 +30,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushree-coder&layout=compact&count_private=false" />
 
-![Tanushree's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder)
+![Tanushree's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder&theme=vision-friendly-light)
