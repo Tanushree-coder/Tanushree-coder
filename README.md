@@ -28,12 +28,13 @@
 
 <h3 align="left">💻 Projects:</h3>
 
-<a href="https://github.com/tanushree-coder/Fit_Plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanushree-coder&repo=Fit_Plus" />
-</a>
-<a href="https://github.com/tanushree-coder/newsFresh_app">
+<a align="left"><a href="https://github.com/tanushree-coder/fit-plus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanushree-coder&repo=fit-plus" />
+</a></a>
+<a align="right"><a href="https://github.com/tanushree-coder/newsFresh_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanushree-coder&repo=newsFresh_app" />
-</a>
+</a></a>
+<br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&show_icons=true&locale=en" alt="tanushree-coder" /></p>
 
