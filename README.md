@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Data Structures** and **Android App Development**
 
+- 🔭 I’m currently working on [**OnTimePro**](https://github.com/Elevate-Lab/college-notification-app)
+
 - 🤝 I’m looking for help with **database**
 
 - 📫 How to reach me : **tanushree950444@gmail.com** 
@@ -18,6 +20,7 @@
 <a href="https://www.linkedin.com/in/tanushree-a32849201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanushree." height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100058886795723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanu shree" height="30" width="40" /></a>
 <a href="https://instagram.com/tanushree_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanushree_72" height="30" width="40" /></a>
+<a href="https://medium.com/@tanushree950444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanushree950444" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
