@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures** and **Android App Development**
 
-- 🔭 I’m currently working on [**OnTimePro**](https://github.com/Elevate-Lab/on-time-pro)
+<!-- - 🔭 I’m currently working on [**OnTimePro**](https://github.com/Elevate-Lab/on-time-pro) -->
 
 - 🤝 I’m looking for help with **database**
 
