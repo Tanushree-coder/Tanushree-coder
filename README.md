@@ -36,7 +36,11 @@
 </a></a>
 <br> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&show_icons=true&locale=en" alt="tanushree-coder" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&count_private=true&show_icons=true&locale=en" alt="tanushree-coder" /></p> -->
+
+ <a href="https://github.com/tanushree-coder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&show_icons=true" alt="tanushree-coder" /></p>
+</a> 
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-coder" alt="tanushree-coder" /></a> </p> -->
 
