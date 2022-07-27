@@ -44,8 +44,8 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-coder" alt="tanushree-coder" /></a> </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushree-coder&layout=compact&count_private=false" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushree-coder&layout=compact&count_private=false" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder&theme=vision-friendly-light" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder&theme=vision-friendly-light" />
 
 <!-- ![Tanushree's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=tanushree-coder&theme=vision-friendly-light) -->
