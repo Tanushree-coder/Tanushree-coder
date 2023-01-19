@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-coder&show_icons=true" alt="tanushree-coder" /></p>
 </a> 
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-coder" alt="tanushree-coder" /></a> </p> -->
+<p align="start"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-coder" alt="tanushree-coder" /></a> </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushree-coder&layout=compact&count_private=false" />
 
